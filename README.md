@@ -7,6 +7,7 @@ In the competitive mobile phone market companies want to understand sales data o
 ### Data Description -
 
 Battery_power - Total energy a battery can store in one time measured in mAh
+
 Blue - Has bluetooth or not
 
 Clock_speed - speed at which microprocessor executes instructions
@@ -52,4 +53,8 @@ Price_range - This is the target variable with value of 0(low cost), 1(medium co
 I have made project on mobile phone price prediction the basis of pre-stored data, if a person wants to invest or starts his/her business in phone market this project will mainly helps in selecting the range of mobile price. Here is the link to dataset which was used
 
 link:- https://drive.google.com/file/d/1i8bO3xv3x8SzXSeSkDl-2qYjCyc9vxA2/view
+
+### Graphs
+
+
 
