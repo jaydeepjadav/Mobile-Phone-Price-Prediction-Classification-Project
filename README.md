@@ -7,7 +7,6 @@ In the competitive mobile phone market companies want to understand sales data o
 ### Data Description -
 
 Battery_power - Total energy a battery can store in one time measured in mAh
-
 Blue - Has bluetooth or not
 
 Clock_speed - speed at which microprocessor executes instructions
